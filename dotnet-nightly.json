@@ -7,7 +7,7 @@
         }
     },
     "homepage":  "http://dotnet.github.io/",
-    "extract_dir":  "ProgramFiles64Folder\\dotnet",
+    "extract_dir":  "dotnet",
     "bin":  [
         "bin\\dotnet.exe"
     ],
